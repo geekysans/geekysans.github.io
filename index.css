@@ -102,7 +102,7 @@ section .title::after {
 
 .navbar.sticky {
     padding: 15px 0;
-    background: rgb(88, 215, 192);
+    background: rgb(77, 215, 190);
 }
 
 .navbar .max-width {
@@ -118,7 +118,7 @@ section .title::after {
 }
 
 .navbar .logo a span {
-    color: crimson;
+    color: rgb(43, 127, 197);
     transition: all 0.3s ease;
 }
 
@@ -160,7 +160,7 @@ section .title::after {
     position: fixed;
     height: 45px;
     width: 42px;
-    background: crimson;
+    background: rgb(126, 230, 203);
     right: 30px;
     bottom: 10px;
     text-align: center;
@@ -224,7 +224,7 @@ section .title::after {
 }
 
 .home .home-content .text-3 span {
-    color: crimson;
+    color: rgb(43, 127, 197);
     font-weight: 500;
 }
 
@@ -248,7 +248,7 @@ section .title::after {
 
 /* about section styling */
 .about .title::after {
-    content: "who i am";
+    content: "";
 }
 
 .about .about-content .left {
@@ -273,7 +273,7 @@ section .title::after {
 }
 
 .about .about-content .right .text span {
-    color: crimson;
+    color: rgb(43, 127, 197);
 }
 
 .about .about-content .right p {
@@ -313,7 +313,7 @@ section .title::after {
 .services .title::after,
 .teams .title::after {
     background: #111;
-    content: "what i provide";
+
 }
 
 .services .serv-content .card {
@@ -327,7 +327,7 @@ section .title::after {
 }
 
 .services .serv-content .card:hover {
-    background: crimson;
+    background: rgb(77, 215, 190);
 }
 
 .services .serv-content .card .box {
@@ -520,7 +520,7 @@ section .title::after {
 
 /* contact section styling */
 .contact .title::after {
-    content: "get in touch";
+    content: "";
 }
 
 .contact .contact-content .column {
