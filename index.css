@@ -584,7 +584,7 @@ section .title::after {
 }
 
 .contact .right form .name {
-    margin-right: 10px;
+    margin-right: 40px;
 }
 
 .contact .right form .field input,
